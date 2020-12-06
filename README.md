@@ -3,6 +3,7 @@ JavaScript Game build during SharkHacks (An MLH Hackathon) on 🦈 theme!
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/logo-01.png" />
 
+[Check Demo Here](http://hrishabh.tech/Save-The-BLAHAJ/)
 
 # How to Play 🦈
 
@@ -16,6 +17,17 @@ JavaScript Game build during SharkHacks (An MLH Hackathon) on 🦈 theme!
 7. 15 points will be deducted ➖ for hitting enemy 🦡🔥(Fire Fish).
 8. Press P to pause the game, press M to mute. The game allows negative point.
 Start saving BLAHAJ 🦈!
+
+## Save from Below Objects
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy1.png" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy2.png" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy3.png" />
+
+## Don't Hit Your Friend BLAHAJ
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/friend.png" />
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/logo-01.png" />
 
 
 [This project is inspired by @gd4Ark](https://github.com/gd4Ark/star-battle)
