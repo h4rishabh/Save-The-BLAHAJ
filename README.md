@@ -1,7 +1,7 @@
 # Save-The_BLAHAJ
 JavaScript Game build during SharkHacks (An MLH Hackathon) on 🦈 theme!
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/logo-01.png" />
+<img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/logo-01.png" />
 
 [Check Demo Here](http://hrishabh.tech/Save-The-BLAHAJ/)
 
@@ -18,16 +18,17 @@ JavaScript Game build during SharkHacks (An MLH Hackathon) on 🦈 theme!
 8. Press P to pause the game, press M to mute. The game allows negative point.
 Start saving BLAHAJ 🦈!
 
-## Save from Below Objects
+## Kill below Objects & get points but remember don't collide !
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy1.png" />
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy2.png" />
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy3.png" />
+Touching below object might loose your points
+<img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy1.png" />
+<img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy2.png" />
+<img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy3.png" />
 
-## Don't Hit Your Friend BLAHAJ
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/friend.png" />
+## Don't hit/kill other BLAHAJ, they are your Friend !
+<img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/friend.png" />
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/logo-01.png" />
+<img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/logo-01.png" />
 
 
 [This project is inspired by @gd4Ark](https://github.com/gd4Ark/star-battle)
